@@ -1,0 +1,1 @@
+# tugasinherritance2
